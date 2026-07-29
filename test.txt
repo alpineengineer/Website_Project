@@ -1,1 +1,7 @@
 This is just playing around. I wrote this line in the GH website. 
+I am writing this in VIM on my client system. I am going to word vomit some ideas here. 
+
+pokedex / but keep it small 
+basic inventory management site
+library with a check in / out system and limited allocations of materials. 
+
